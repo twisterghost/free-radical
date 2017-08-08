@@ -1,0 +1,1 @@
+//instance_create_depth(x - view_xport[0], y - view_yport[0], 0, obj_pickup_slomo_anim);

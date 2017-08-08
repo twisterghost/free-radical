@@ -1,0 +1,1 @@
+global.levelName = "Angled Hall";

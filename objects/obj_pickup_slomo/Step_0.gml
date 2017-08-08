@@ -1,0 +1,1 @@
+part_particles_create(global.wallSys, x, y, partType, 1);

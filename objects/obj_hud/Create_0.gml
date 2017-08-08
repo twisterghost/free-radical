@@ -1,0 +1,1 @@
+timer = seconds(30);

@@ -1,0 +1,1 @@
+global.gameScore += floor((timer / 60) * 1000);

@@ -1,0 +1,1 @@
+global.levelNumber = 1;
